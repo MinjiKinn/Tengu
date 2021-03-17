@@ -1,0 +1,44 @@
+{
+  "name": "fatlightslim.com",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@mdx-js/loader": "^1.6.22",
+    "@n8tb1t/use-scroll-position": "^2.0.3",
+    "@next/mdx": "^10.0.4",
+    "@tailwindcss/aspect-ratio": "^0.2.0",
+    "@tailwindcss/typography": "^0.3.1",
+    "@terwanerik/scrolltrigger": "^1.0.5",
+    "animate.css": "^4.1.1",
+    "autoprefixer": "^10.0.4",
+    "babel-plugin-transform-define": "^2.0.0",
+    "classnames": "^2.2.6",
+    "contentful": "^8.1.7",
+    "cors": "^2.8.5",
+    "js-cookie": "^2.2.1",
+    "next": "latest",
+    "postcss": "^8.1.13",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scroll-trigger": "^0.6.10",
+    "react-slick": "^0.27.13",
+    "shopify-buy": "^2.11.0",
+    "slick-carousel": "^1.8.1",
+    "splitting": "^1.0.6",
+    "stripe": "^8.130.0",
+    "vercel": "^20.1.4",
+    "video-react": "^0.14.1"
+  },
+  "devDependencies": {
+    "globby": "^11.0.1",
+    "postcss-flexbugs-fixes": "4.2.1",
+    "postcss-preset-env": "^6.7.0",
+    "prettier": "^2.2.1",
+    "tailwindcss": "^2.0.1"
+  },
+  "license": "MIT"
+}
